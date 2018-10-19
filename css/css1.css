@@ -1,0 +1,37 @@
+.geren{
+    font-size: 50px;font-weight: bold;
+}
+.yicun{
+    width: 200px;height: 200px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px #b74034;
+    border-radius: 80%;
+}
+body{
+    background-color: #F4F4F4;
+}
+article{width: 700px; height: 1500px; margin:auto;
+    padding:20px;
+    background-color:pink;
+}
+header{
+    font-size: 24px;text-align: center;line-height: 50px;
+    border-bottom: 3px dashed #DDD;
+}
+.zuo{width: 360px;float: left;}
+.ps{width:60px;height: 60px;border-radius: 50%;margin-left: 10px;}
+.ae{width:60px;height: 60px;border-radius: 50%;}
+.pr{width:60px;height: 60px;border-radius: 50%;}
+.ai{width:60px;height: 60px;border-radius: 50%;}
+.dw{width:60px;height: 60px;border-radius: 50%;}
+
+.yicun{width:80px;height: 80px;border-radius: 50%;margin: auto;}
+h3{font-size: 18px; line-height: 30px;border-bottom: 2px solid #F4F4F4;
+    letter-spacing: 1em;}
+p{font-size: 12px;line-height: 30px; letter-spacing: 0.5em}
+img{margin:20px 20px}
+.suo{text-indent: 3em}
+@media all and (max-width: 640px){
+article{width:100%; box-sizing: border-box;
+}
+}
